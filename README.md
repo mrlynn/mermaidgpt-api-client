@@ -19,7 +19,7 @@ Install `mermaidgpt-api-client` via npm:
 
 ```bash
 npm install mermaidgpt-api-client
-
+```
 ## Setup
 
 To use `mermaidgpt-api-client`, you will need:
