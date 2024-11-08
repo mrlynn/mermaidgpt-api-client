@@ -1,0 +1,11 @@
+{
+  "name": "mermaidgpt-api-client",
+  "version": "1.0.1",
+  "description": "A client library to interact with the Mermaid diagram generation API.",
+  "main": "src/index.js",
+  "author": "Michael Lynn <merlynn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
